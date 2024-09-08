@@ -1,2 +1,2 @@
 # DTR
-https://aryan001.streamlit.app/
+https://dhruv2004.streamlit.app/
